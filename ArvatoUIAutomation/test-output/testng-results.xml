@@ -1,0 +1,695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+    <line>
+      <![CDATA[Test started:verifyFrontPageUIElements]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage=>verifyFrontPageUIElements</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyMoreInfoLinks]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyCRMCustServicePageUIElements]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService=>verifyCRMCustServicePageUIElements</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyLinkToCRMOpenPosition]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage=>verifyMoreInfoLinks</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyFrontPageLinks]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService=>verifyLinkToCRMOpenPosition</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyITDevCenterPage]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests=>verifyITDevCenterPage</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyCRMOpenPositionLinks]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests=>verifyCRMOpenPositionLinks</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyAllUIElements]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions=>verifyAllUIElements</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyAllPositionLinks]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage=>verifyFrontPageLinks</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions=>verifyAllPositionLinks</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:verifyUIElements]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>verifyUIElements</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:validateFields]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>validateFields</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:validateFields]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>validateFields</i></font>]]>
+    </line>
+    <line>
+      <![CDATA[Test started:validateFields]]>
+    </line>
+    <line>
+      <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>validateFields</i></font>]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="137924" started-at="2018-04-09T07:40:21Z" finished-at="2018-04-09T07:42:39Z">
+    <groups>
+    </groups>
+    <test name="TestCRMCustServicePage" duration-ms="24650" started-at="2018-04-09T07:40:21Z" finished-at="2018-04-09T07:40:46Z">
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="setUp" is-config="true" duration-ms="13748" started-at="2018-04-09T01:40:21Z" finished-at="2018-04-09T01:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="beforeClass" is-config="true" duration-ms="24" started-at="2018-04-09T01:40:35Z" finished-at="2018-04-09T01:40:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:40:35Z" finished-at="2018-04-09T01:40:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService.verifyCRMCustServicePageUIElements()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyCRMCustServicePageUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="verifyCRMCustServicePageUIElements" duration-ms="2772" started-at="2018-04-09T01:40:35Z" finished-at="2018-04-09T01:40:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyCRMCustServicePageUIElements]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService=>verifyCRMCustServicePageUIElements</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCRMCustServicePageUIElements -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:40:38Z" finished-at="2018-04-09T01:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCRMCustServicePageUIElements status=SUCCESS method=TC02_VerifyCRMCustomerService.verifyCRMCustServicePageUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69] output=Test started:verifyCRMCustServicePageUIElements]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:40:38Z" finished-at="2018-04-09T01:40:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService.verifyLinkToCRMOpenPosition()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyLinkToCRMOpenPosition()[pri:2, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="verifyLinkToCRMOpenPosition" duration-ms="7028" started-at="2018-04-09T01:40:38Z" finished-at="2018-04-09T01:40:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyLinkToCRMOpenPosition]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService=>verifyLinkToCRMOpenPosition</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLinkToCRMOpenPosition -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:40:45Z" finished-at="2018-04-09T01:40:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyLinkToCRMOpenPosition status=SUCCESS method=TC02_VerifyCRMCustomerService.verifyLinkToCRMOpenPosition()[pri:2, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69] output=Test started:verifyLinkToCRMOpenPosition]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService@5bb21b69]" name="endTest" is-config="true" duration-ms="1050" started-at="2018-04-09T01:40:45Z" finished-at="2018-04-09T01:40:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService -->
+    </test> <!-- TestCRMCustServicePage -->
+    <test name="TestITDevPage" duration-ms="16628" started-at="2018-04-09T07:40:46Z" finished-at="2018-04-09T07:41:03Z">
+      <class name="com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d]" name="setUp" is-config="true" duration-ms="11868" started-at="2018-04-09T01:40:46Z" finished-at="2018-04-09T01:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d]" name="beforeClass" is-config="true" duration-ms="13" started-at="2018-04-09T01:40:58Z" finished-at="2018-04-09T01:40:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:40:58Z" finished-at="2018-04-09T01:40:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests.verifyITDevCenterPage()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyITDevCenterPage()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d]" name="verifyITDevCenterPage" duration-ms="4426" started-at="2018-04-09T01:40:58Z" finished-at="2018-04-09T01:41:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyITDevCenterPage]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests=>verifyITDevCenterPage</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyITDevCenterPage -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:41:02Z" finished-at="2018-04-09T01:41:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyITDevCenterPage status=SUCCESS method=TC03_VerifyITDevCenterTests.verifyITDevCenterPage()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d] output=Test started:verifyITDevCenterPage]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests@7ce6a65d]" name="endTest" is-config="true" duration-ms="313" started-at="2018-04-09T01:41:02Z" finished-at="2018-04-09T01:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests -->
+    </test> <!-- TestITDevPage -->
+    <test name="TestCRMOpenPositionPage" duration-ms="29577" started-at="2018-04-09T07:41:03Z" finished-at="2018-04-09T07:41:32Z">
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28]" name="setUp" is-config="true" duration-ms="9689" started-at="2018-04-09T01:41:03Z" finished-at="2018-04-09T01:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28]" name="beforeClass" is-config="true" duration-ms="9" started-at="2018-04-09T01:41:12Z" finished-at="2018-04-09T01:41:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:41:12Z" finished-at="2018-04-09T01:41:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests.verifyCRMOpenPositionLinks() throws java.io.UnsupportedEncodingException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyCRMOpenPositionLinks()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28]" name="verifyCRMOpenPositionLinks" duration-ms="19386" started-at="2018-04-09T01:41:12Z" finished-at="2018-04-09T01:41:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyCRMOpenPositionLinks]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests=>verifyCRMOpenPositionLinks</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyCRMOpenPositionLinks -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:41:32Z" finished-at="2018-04-09T01:41:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCRMOpenPositionLinks status=SUCCESS method=TC04_VerifyCRMOpenPositionTests.verifyCRMOpenPositionLinks()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28] output=Test started:verifyCRMOpenPositionLinks]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests@6043cd28]" name="endTest" is-config="true" duration-ms="485" started-at="2018-04-09T01:41:32Z" finished-at="2018-04-09T01:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests -->
+    </test> <!-- TestCRMOpenPositionPage -->
+    <test name="TestHomePage" duration-ms="102754" started-at="2018-04-09T07:40:21Z" finished-at="2018-04-09T07:42:04Z">
+      <class name="com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="setUp" is-config="true" duration-ms="12550" started-at="2018-04-09T01:40:21Z" finished-at="2018-04-09T01:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="beforeClass" is-config="true" duration-ms="94" started-at="2018-04-09T01:40:34Z" finished-at="2018-04-09T01:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="beforeMethod" is-config="true" duration-ms="11" started-at="2018-04-09T01:40:34Z" finished-at="2018-04-09T01:40:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage.verifyFrontPageUIElements()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyFrontPageUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="verifyFrontPageUIElements" duration-ms="1002" started-at="2018-04-09T01:40:34Z" finished-at="2018-04-09T01:40:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyFrontPageUIElements]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage=>verifyFrontPageUIElements</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFrontPageUIElements -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:40:35Z" finished-at="2018-04-09T01:40:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyFrontPageUIElements status=SUCCESS method=TC01_VerifyFrontPage.verifyFrontPageUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8] output=Test started:verifyFrontPageUIElements]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:40:35Z" finished-at="2018-04-09T01:40:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage.verifyMoreInfoLinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyMoreInfoLinks()[pri:2, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="verifyMoreInfoLinks" duration-ms="6046" started-at="2018-04-09T01:40:35Z" finished-at="2018-04-09T01:40:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyMoreInfoLinks]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage=>verifyMoreInfoLinks</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMoreInfoLinks -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:40:41Z" finished-at="2018-04-09T01:40:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMoreInfoLinks status=SUCCESS method=TC01_VerifyFrontPage.verifyMoreInfoLinks()[pri:2, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8] output=Test started:verifyMoreInfoLinks]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:40:41Z" finished-at="2018-04-09T01:40:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage.verifyFrontPageLinks()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyFrontPageLinks()[pri:3, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="verifyFrontPageLinks" duration-ms="82529" started-at="2018-04-09T01:40:41Z" finished-at="2018-04-09T01:42:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyFrontPageLinks]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage=>verifyFrontPageLinks</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyFrontPageLinks -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:04Z" finished-at="2018-04-09T01:42:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyFrontPageLinks status=SUCCESS method=TC01_VerifyFrontPage.verifyFrontPageLinks()[pri:3, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8] output=Test started:verifyFrontPageLinks]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage@4d50efb8]" name="endTest" is-config="true" duration-ms="451" started-at="2018-04-09T01:42:04Z" finished-at="2018-04-09T01:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage -->
+    </test> <!-- TestHomePage -->
+    <test name="TestITOpenPositionPage" duration-ms="43539" started-at="2018-04-09T07:41:32Z" finished-at="2018-04-09T07:42:16Z">
+      <class name="com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="setUp" is-config="true" duration-ms="15727" started-at="2018-04-09T01:41:32Z" finished-at="2018-04-09T01:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="beforeClass" is-config="true" duration-ms="12" started-at="2018-04-09T01:41:48Z" finished-at="2018-04-09T01:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:41:48Z" finished-at="2018-04-09T01:41:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions.verifyAllUIElements()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyAllUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="verifyAllUIElements" duration-ms="3062" started-at="2018-04-09T01:41:48Z" finished-at="2018-04-09T01:41:51Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyAllUIElements]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions=>verifyAllUIElements</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAllUIElements -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:41:51Z" finished-at="2018-04-09T01:41:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAllUIElements status=SUCCESS method=TC05_VerifyITCenterPositions.verifyAllUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af] output=Test started:verifyAllUIElements]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:41:51Z" finished-at="2018-04-09T01:41:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions.verifyAllPositionLinks() throws java.io.UnsupportedEncodingException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="verifyAllPositionLinks()[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="verifyAllPositionLinks" duration-ms="24450" started-at="2018-04-09T01:41:51Z" finished-at="2018-04-09T01:42:16Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyAllPositionLinks]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions=>verifyAllPositionLinks</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyAllPositionLinks -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:42:16Z" finished-at="2018-04-09T01:42:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAllPositionLinks status=SUCCESS method=TC05_VerifyITCenterPositions.verifyAllPositionLinks()[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af] output=Test started:verifyAllPositionLinks]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions@670b40af]" name="endTest" is-config="true" duration-ms="279" started-at="2018-04-09T01:42:16Z" finished-at="2018-04-09T01:42:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions -->
+    </test> <!-- TestITOpenPositionPage -->
+    <test name="TestContactPage" duration-ms="27188" started-at="2018-04-09T07:42:12Z" finished-at="2018-04-09T07:42:39Z">
+      <class name="com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="setUp" is-config="true" duration-ms="12255" started-at="2018-04-09T01:42:12Z" finished-at="2018-04-09T01:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="beforeClass" is-config="true" duration-ms="12" started-at="2018-04-09T01:42:24Z" finished-at="2018-04-09T01:42:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="verifyUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="verifyUIElements" duration-ms="9371" started-at="2018-04-09T01:42:24Z" finished-at="2018-04-09T01:42:34Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:verifyUIElements]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>verifyUIElements</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUIElements -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:42:24Z" finished-at="2018-04-09T01:42:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage.verifyUIElements()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:34Z" finished-at="2018-04-09T01:42:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUIElements status=SUCCESS method=TC06_VerifyContactPage.verifyUIElements()[pri:1, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686] output=Test started:verifyUIElements]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:35Z" finished-at="2018-04-09T01:42:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage.validateFields(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="validateFields" duration-ms="1687" started-at="2018-04-09T01:42:35Z" data-provider="contactForm" finished-at="2018-04-09T01:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[surya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ 6128509963]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hiii]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:validateFields]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>validateFields</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateFields -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:36Z" finished-at="2018-04-09T01:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFields status=SUCCESS method=TC06_VerifyContactPage.validateFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686] output=Test started:validateFields]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:36Z" finished-at="2018-04-09T01:42:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage.validateFields(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="validateFields" duration-ms="1314" started-at="2018-04-09T01:42:36Z" data-provider="contactForm" finished-at="2018-04-09T01:42:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ 6128509963]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Hiii]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:validateFields]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>validateFields</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateFields -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:38Z" finished-at="2018-04-09T01:42:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFields status=SUCCESS method=TC06_VerifyContactPage.validateFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686] output=Test started:validateFields]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-04-09T01:42:38Z" finished-at="2018-04-09T01:42:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage.validateFields(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="validateFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="validateFields" duration-ms="1532" started-at="2018-04-09T01:42:38Z" data-provider="contactForm" finished-at="2018-04-09T01:42:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Surya]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[XYZ]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[surya@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ ]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test started:validateFields]]>
+            </line>
+            <line>
+              <![CDATA[Test is Success: <font color='green'><i>com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage=>validateFields</i></font>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateFields -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-04-09T01:42:39Z" finished-at="2018-04-09T01:42:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateFields status=SUCCESS method=TC06_VerifyContactPage.validateFields(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686] output=Test started:validateFields]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage@50d0686]" name="endTest" is-config="true" duration-ms="260" started-at="2018-04-09T01:42:39Z" finished-at="2018-04-09T01:42:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage -->
+    </test> <!-- TestContactPage -->
+  </suite> <!-- Suite -->
+</testng-results>

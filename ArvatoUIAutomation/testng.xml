@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" preserve-order="true" parallel="tests" thread-count="2">
+<listeners>
+<listener class-name="com.test.arvato.ArvatoUIAutomation.customListener.Listener"></listener>
+</listeners>
+ 
+  <test name="TestHomePage">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="TestCRMCustServicePage">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService"/>
+    </classes>
+  </test> <!-- Test -->
+  
+ 
+  <test name="TestITDevPage">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+  <test name="TestCRMOpenPositionPage">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests"/>
+    </classes>
+  </test> <!-- Test --> 
+  
+  
+  <test name="TestITOpenPositionPage">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions"/>
+    </classes>
+  </test> <!-- Test -->  
+  
+  
+  <test name="TestContactPage">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage"/>
+    </classes>
+  </test> <!-- Test -->    
+  
+  
+</suite> <!-- Suite -->

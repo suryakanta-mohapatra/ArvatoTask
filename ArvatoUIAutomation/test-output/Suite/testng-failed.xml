@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.test.arvato.ArvatoUIAutomation.customListener.Listener"/>
+  </listeners>
+  <test name="TestITOpenPositionPage(failed)" parallel="tests">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage -->
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests -->
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService -->
+      <class name="com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests -->
+      <class name="com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage -->
+      <class name="com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions">
+        <methods>
+          <include name="endTest"/>
+          <include name="verifyAllPositionLinks"/>
+          <include name="setUp"/>
+          <include name="verifyAllUIElements"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions -->
+    </classes>
+  </test> <!-- TestITOpenPositionPage(failed) -->
+  <test name="TestCRMOpenPositionPage(failed)" parallel="tests">
+    <classes>
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+          <include name="verifyCRMOpenPositionLinks"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.CRMOpenPositionTest.TC04_VerifyCRMOpenPositionTests -->
+      <class name="com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.homePageTest.TC01_VerifyFrontPage -->
+      <class name="com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.CRMCustServiceTest.TC02_VerifyCRMCustomerService -->
+      <class name="com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="beforeClass"/>
+          <include name="afterMethod"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ITDevCenterTest.TC03_VerifyITDevCenterTests -->
+      <class name="com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage">
+        <methods>
+          <include name="endTest"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="beforeClass"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ContactsPageTests.TC06_VerifyContactPage -->
+      <class name="com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions">
+        <methods>
+          <include name="endTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.test.arvato.ArvatoUIAutomation.ITCenterPositionsTest.TC05_VerifyITCenterPositions -->
+    </classes>
+  </test> <!-- TestCRMOpenPositionPage(failed) -->
+</suite> <!-- Failed suite [Suite] -->
